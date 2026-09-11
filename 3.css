@@ -1,0 +1,73 @@
+html, body{
+    margin: 0;
+    height: 100%;
+}
+
+body{
+    display: flex;
+    font-family: arial, sans-serif;
+    flex-direction: column;
+    font-size: 20px;
+}
+
+.logo{
+    border: 2px solid white;
+    padding: 15px;
+    margin-bottom: 3px;
+}
+
+header{
+    background-color: lightgray;
+    text-align: left;
+}
+
+.container{
+    display: flex;
+    flex: 5;
+    
+}
+
+.sidebar1{
+    border: 2px;
+    padding: 15px;
+    flex: 1;
+    text-align: left;
+    word-spacing: 5px;
+    background-color: white;
+}    
+
+.sidebar2{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex: 3;
+}
+
+.headerbanner{
+    border: 2px;
+    padding: 5px;
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    background-color: lightgray;
+    margin-bottom: 5px;
+}
+
+.body{
+    border: 2px;
+    padding: 5px;
+    flex: 3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightgray;
+    margin-bottom: 5px;
+}
+
+.footer{
+    border: 2px;
+    padding: 5px;
+    text-align: center;
+    background-color:lightgray;
+}

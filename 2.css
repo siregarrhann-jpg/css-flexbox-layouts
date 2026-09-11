@@ -1,0 +1,98 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    border: 2px solid white;
+    display: flex;
+    margin-bottom: 3px;
+}
+
+.logo{
+    padding: 5px;
+    flex: 1;
+    text-indent: 10px;
+    background-color: lightgray;
+
+}
+
+.navigation{
+    background-color: lightgray;
+    padding: 5px;
+    flex: 1;
+    text-align: center;
+}
+
+.headerbanner{
+    border: 3px solid white;
+    padding: 20px;
+    text-align: center;
+    background-color: lightgray;
+    margin-bottom: 3px;
+}
+
+.nav {
+    border: 3px solid white;
+    padding: 20px;
+    text-align: center;
+    background-color: lightgray;
+    margin-bottom: 10px;
+}
+
+.container {
+    display: flex;
+    flex: 1;
+}
+
+
+.body1 {
+    border: 2px solid white;
+    padding: 5px;           
+    display: flex;
+    flex: 2;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgray;
+    margin-right: 15px;
+    margin-bottom: 8px;
+}
+
+.body2 {
+    border: 2px solid white;
+    padding: 5px;
+    display: flex;
+    flex: 2;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgray;
+    margin-right: 15px;
+    margin-bottom: 8px;
+}
+
+.body3 {
+    border: 2px solid white;
+    padding: 5px;
+    display: flex;
+    flex: 2;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgray;
+    margin-bottom: 8px;
+}
+
+footer {
+    border: 2px solid white;
+    padding: 4px;
+    background-color: lightgray;
+    text-align: center;
+}
