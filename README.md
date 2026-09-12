@@ -10,10 +10,10 @@ Repository ini berisi kumpulan modul latihan layouting web menggunakan **CSS Fle
 
 ```text
 css-flexbox-layouts/
-├── 📄 1index.html / 1.css  # Basic Layout Structure
-├── 📄 2index.html / 2.css  # Multi-box Grid & Section Layout
-├── 📄 3index.html / 3.css  # Sidebar Layout Navigation
-└── 📄 4index.html / 4.css  # Complex Flexible Container Layout
+├── 📄 1index.html / 1.css  # Basic Layout Structure.
+├── 📄 2index.html / 2.css  # Multi-box Grid & Section Layout.
+├── 📄 3index.html / 3.css  # Sidebar Layout Navigation.
+└── 📄 4index.html / 4.css  # Complex Flexible Container Layout.
 
 ## 🌐 Live Preview Outputs
 Pilih tautan di bawah untuk melihat hasil live demo:
