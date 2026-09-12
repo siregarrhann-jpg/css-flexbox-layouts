@@ -1,7 +1,7 @@
 <h1>🎨 CSS Flexbox Layout Practices</h1>
 
 <p>
-  Repositori ini berisi dokumentasi serta implementasi latihan pembuatan berbagai tata letak (<i>layout</i>) antarmuka web modern berbasis <b>HTML5 Semantik</b> dan <b>CSS Flexbox</b>. Proyek ini dirancang untuk melatih pemahaman mendalam terkait struktur dokumen web yang bersih, aksesibel, dan responsif.
+  Repositori ini berisi dokumentasi serta implementasi latihan pembuatan berbagai tata letak (<i>layout</i>) antarmuka web modern berbasis <b>HTML Semantik</b> dan <b>CSS Flexbox</b>. Proyek ini dirancang untuk melatih pemahaman mendalam terkait struktur dokumen web yang bersih, aksesibel, dan responsif.
 </p>
 
 <hr>
@@ -17,7 +17,7 @@
   <br>
   <li>
     <a href="https://siregarrhann-jpg.github.io/css-flexbox-layouts/2index.html"><b>Output 2: Multi-box Grid & Section Layout</b></a>
-    <br><i>Penataan grid elemen multi-kolom dan pembagian seksi konten.</i>
+    <br><i>Penataan grid elemen multi-kolom dan pembagian sesi konten.</i>
   </li>
   <br>
   <li>
@@ -37,7 +37,7 @@
 <ul>
   <li>
     <b>HTML5 Semantik</b>
-    <br><i>Menggunakan tag semantik seperti &lt;header&gt;, &lt;nav&gt;, &lt;main&gt;, &lt;section&gt;, &lt;aside&gt;, dan &lt;footer&gt;.</i>
+    <br><i>Menggunakan tag semantik seperti &lt;header&gt;, &lt;nav&gt;, &lt;main&gt;, &lt;section&gt;, dan &lt;footer&gt;.</i>
   </li>
   <br>
   <li>
