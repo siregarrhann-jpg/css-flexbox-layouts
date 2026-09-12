@@ -14,3 +14,12 @@ Repository ini berisi kumpulan modul latihan layouting web menggunakan **CSS Fle
 ├── 2index.html / 2.css  # Multi-box Grid & Section Layout
 ├── 3index.html / 3.css  # Sidebar Layout Navigation
 └── 4index.html / 4.css  # Complex Flexible Container Layout
+
+## 🌐 Live Preview Outputs
+Pilih dan klik tautan di bawah ini untuk melihat hasil tampilan web secara live:
+
+* 🔹 **[Output 1: Basic Layout Structure]https://siregarrhann-jpg.github.io/css-flexbox-layouts/1index.html
+* 🔹 **[Output 2: Multi-box Grid & Section Layout]https://siregarrhann-jpg.github.io/css-flexbox-layouts/2index.html
+* 🔹 **[Output 3: Sidebar Layout Navigation]https://siregarrhann-jpg.github.io/css-flexbox-layouts/3index.html
+* 🔹 **[Output 4: Complex Flexible Container Layout]https://siregarrhann-jpg.github.io/css-flexbox-layouts/4index.html
+---
