@@ -36,12 +36,12 @@
 <h2>🛠️ Teknologi & Fitur Utama</h2>
 <ul>
   <li>
-    <b>HTML5 Semantik</b>
+    <b>HTML Semantik</b>
     <br><i>Menggunakan tag semantik seperti &lt;header&gt;, &lt;nav&gt;, &lt;main&gt;, &lt;section&gt;, dan &lt;footer&gt;.</i>
   </li>
   <br>
   <li>
-    <b>CSS3 Flexbox</b>
+    <b>CSS Flexbox</b>
     <br><i>Memaksimalkan properti display: flex, flex-direction, justify-content, align-items, dan flex-wrap.</i>
   </li>
   <br>
