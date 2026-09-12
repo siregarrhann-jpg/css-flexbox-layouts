@@ -1,6 +1,6 @@
 <h1>🎨 CSS Flexbox Layout Practices</h1>
 
-<p>Proyek latihan penataan struktur web menggunakan <b>HTML5 Semantik</b> dan <b>CSS Flexbox</b>.</p>
+<p>Proyek latihan penataan struktur web menggunakan <b>HTML Semantik</b> dan <b>CSS Flexbox</b>.</p>
 
 <hr>
 
