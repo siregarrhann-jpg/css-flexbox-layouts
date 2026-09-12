@@ -19,7 +19,9 @@ css-flexbox-layouts/
 
 Pilih dan klik tautan di bawah ini untuk melihat hasil tampilan web secara live:
 
-* 🔹 **[Output 1: Basic Layout Structure](https://siregarrhann-jpg.github.io/css-flexbox-layouts/1index.html)**
-* 🔹 **[Output 2: Multi-box Grid & Section Layout](https://siregarrhann-jpg.github.io/css-flexbox-layouts/2index.html)**
-* 🔹 **[Output 3: Sidebar Layout Navigation](https://siregarrhann-jpg.github.io/css-flexbox-layouts/3index.html)**
-* 🔹 **[Output 4: Complex Flexible Container Layout](https://siregarrhann-jpg.github.io/css-flexbox-layouts/4index.html)**
+<ul>
+  <li>🔹 <a href="https://siregarrhann-jpg.github.io/css-flexbox-layouts/1index.html">Output 1: Basic Layout Structure</a></li>
+  <li>🔹 <a href="https://siregarrhann-jpg.github.io/css-flexbox-layouts/2index.html">Output 2: Multi-box Grid & Section Layout</a></li>
+  <li>🔹 <a href="https://siregarrhann-jpg.github.io/css-flexbox-layouts/3index.html">Output 3: Sidebar Layout Navigation</a></li>
+  <li>🔹 <a href="https://siregarrhann-jpg.github.io/css-flexbox-layouts/4index.html">Output 4: Complex Flexible Container Layout</a></li>
+</ul>
