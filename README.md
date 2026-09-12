@@ -16,11 +16,7 @@ css-flexbox-layouts/
 └── 📄 4index.html / 4.css  # Complex Flexible Container Layout
 
 ## 🌐 Live Preview Outputs
-
-## 🌐 Live Preview Outputs
-
 Pilih tautan di bawah untuk melihat hasil live demo:
-
 - [Output 1: Basic Layout Structure](https://siregarrhann-jpg.github.io/css-flexbox-layouts/1index.html)
 - [Output 2: Multi-box Grid & Section Layout](https://siregarrhann-jpg.github.io/css-flexbox-layouts/2index.html)
 - [Output 3: Sidebar Layout Navigation](https://siregarrhann-jpg.github.io/css-flexbox-layouts/3index.html)
